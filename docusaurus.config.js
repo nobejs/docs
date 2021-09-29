@@ -103,10 +103,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               ],
             },
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} Betalectic IT Projects, Pvt Ltd. Built with Docusaurus.`,
+          copyright: `Copyright © ${new Date().getFullYear()} <a href="https://betalectic.com" target="_blank">Betalectic</a>. Built with Docusaurus.`,
         },
         prism: {
-          theme: lightCodeTheme,
+          theme: {
+            ...lightCodeTheme,
+            plain: {
+              color: "#393A34",
+              backgroundColor: "#f6f8fa",
+            },
+          },
           darkTheme: darkCodeTheme,
         },
       }),
