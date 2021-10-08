@@ -1,35 +1,5 @@
----
-sidebar_position: 1
----
+# Intro
 
-# Tutorial Intro
+Nobejs (or just Nobe) is a framework to help developers keep the focus and code near to businesses domain and features. And it does by bringing a concept of "Nobe Story" - which essentially is a philosophy on how to destructure a business requirement and execute it to expose the functionality via APIs, Command or more.
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+To learn more about the mindset behind it, please continue to: [Why Nobe](/why-nobe)
