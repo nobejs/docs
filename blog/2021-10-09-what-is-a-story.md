@@ -1,11 +1,11 @@
 ---
-slug: pahr-strategy
-title: PAHR Strategy
+slug: what-is-a-story
+title: what-is-a-story
 authors: rajiv
-tags: [concepts, philosophy]
+tags: [concepts]
 ---
 
-PAHR is an execution strategy for a story.
+This is the summary of a very long blog post,
 
 <!--truncate-->
 
