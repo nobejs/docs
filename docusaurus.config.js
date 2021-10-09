@@ -84,8 +84,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Community",
               items: [
                 {
-                  label: "Stack Overflow",
-                  href: "https://stackoverflow.com/questions/tagged/nobejs",
+                  label: "Discord",
+                  href: "https://discord.gg/svXMRzCyPq",
                 },
                 {
                   label: "Twitter",
