@@ -53,7 +53,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               type: "doc",
               docId: "intro",
               position: "left",
-              label: "Tutorial",
+              label: "Documentation",
             },
             { to: "/blog", label: "Blog", position: "left" },
             {
@@ -75,8 +75,20 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Docs",
               items: [
                 {
-                  label: "Tutorial",
+                  label: "Intro",
                   to: "/docs/intro",
+                },
+                {
+                  label: "Concepts",
+                  to: "/docs/concepts/folder-structure",
+                },
+                {
+                  label: "Basics",
+                  to: "/docs/basics/prepare",
+                },
+                {
+                  label: "Deployment",
+                  to: "/docs/deployment/docker",
                 },
               ],
             },
@@ -84,8 +96,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Community",
               items: [
                 {
-                  label: "Stack Overflow",
-                  href: "https://stackoverflow.com/questions/tagged/nobejs",
+                  label: "Discord",
+                  href: "https://discord.gg/svXMRzCyPq",
                 },
                 {
                   label: "Twitter",
