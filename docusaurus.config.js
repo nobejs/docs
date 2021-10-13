@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "NobeJS",
-    tagline: "Where your APIs tell stories",
+    tagline: '["post", "/teams", "Teams/UserCanCreateTeam"]',
     url: "https://nobejs.org",
     baseUrl: "/",
     onBrokenLinks: "throw",
