@@ -28,7 +28,6 @@ module.exports = {
         "concepts/business-story",
         "concepts/nobe-story",
         "concepts/pahr-strategy",
-        "concepts/nobe-strategy",
       ],
     },
     {
@@ -36,6 +35,7 @@ module.exports = {
       label: "Basics",
       items: [
         "basics/folder-structure",
+        "basics/strategies",
         "basics/prepare",
         "basics/authorize",
         "basics/handle",
