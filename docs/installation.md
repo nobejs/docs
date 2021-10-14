@@ -9,3 +9,5 @@ You can currently run Nobe following:
 3. Extract the zip file
 4. Change into the directory of Nobe you just extracted
 5. Run `yarn install` (You can use npm too)
+
+You can follow the tutorial at to get first hand experience of Nobe: [First Endpoint with Nobe](/blog/first-endpoint-using-nobe)

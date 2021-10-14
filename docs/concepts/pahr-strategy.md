@@ -1,13 +1,6 @@
----
-slug: pahr-strategy
-title: PAHR Strategy
-authors: rajiv
-tags: [concepts, philosophy]
----
+# PAHR Strategy
 
 PAHR is a concept which comes out of the box with Nobe; it is an execution strategy for a story. Before we delve into Nobe itself, this article is an effort to describe PAHR in an agnostic way that it's not linked to any framework or a programming language.
-
-<!--truncate-->
 
 PAHR stands for - Prepare, Authorize, Handle, Respond
 
@@ -56,3 +49,4 @@ Authorization: Bearer jdsfdsfd...dsfdsfdsf
 **Respond**: Based on the result of "Handle," you want to figure how to encode/decode the file and give it back to HTTP call or give some instruction for the frontend to follow.
 
 PAHR is more of a methodology to think and prepare a solution. And NobeJS helps you put together the same via breaking down each phase as a single function and passing down results from one function to another. As a result, PAHR improves code readability, maintainability drastically. And taking the "Test-First" approach makes testing a first citizen rather than additional work. Sometimes, you might feel there is no need to open Postman and call an API call to try the endpoint.
+

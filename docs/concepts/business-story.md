@@ -1,13 +1,6 @@
----
-slug: what-is-a-story
-title: What is a Story
-authors: rajiv
-tags: [concepts]
----
+# Business Story
 
 Story is a term which is popularly used in context of Agile framework. It essentially is an informal representation of a feature, In this blog we explore it briefly enough that it sets a foundations for next steps.
-
-<!--truncate-->
 
 Note: In this article, we don't go very deep - there are articles out there where the concepts of Epics and Stories are in great detail. Ex: https://www.atlassian.com/agile/project-management/user-stories
 
