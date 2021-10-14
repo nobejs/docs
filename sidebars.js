@@ -45,12 +45,13 @@ module.exports = {
         "basics/authentication",
         "basics/validation",
         "basics/errors",
+        "basics/updating",
       ],
     },
     {
       type: "category",
       label: "Database",
-      items: ["database/config", "database/repository", "database/serializer"],
+      items: ["database/intro", "database/repository", "database/serializer"],
     },
     {
       type: "category",
