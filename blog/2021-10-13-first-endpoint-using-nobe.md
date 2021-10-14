@@ -32,7 +32,7 @@ No tests found, exiting with code 0
 
 That's because we didn't write any stories yet.
 
-Before we go further, it would make sense to understand nobejs strategies once. If you haven't gone through PAHR Strategy, this would be the right time before we proceed. Please proceed to [PAHR Strategy](/blog/pahr-strategy) for more information.
+Before we go further, it would make sense to understand nobejs strategies once. If you haven't gone through PAHR Strategy, this would be the right time before we proceed. Please proceed to [PAHR Strategy](/docs/concepts/pahr-strategy) for more information.
 
 Open: config.js
 
