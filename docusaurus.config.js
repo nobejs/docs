@@ -80,7 +80,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                 },
                 {
                   label: "Concepts",
-                  to: "/docs/concepts/folder-structure",
+                  to: "/docs/basics/folder-structure",
                 },
                 {
                   label: "Basics",
