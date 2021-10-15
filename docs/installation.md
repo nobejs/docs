@@ -4,7 +4,7 @@ Nobejs is Open Source under MIT License and lives at [Github](https://github.com
 
 Nobe is a NodeJS framework, so you need to have some NodeJS setup on your machine. You can go to official site of NodeJS on how to install it: https://nodejs.org/en/download/
 
-You can currently run Nobe following:
+You can currently setup Nobe using following steps:
 
 1. Nobe Releases are at https://github.com/nobejs/nobejs/releases
 2. Pick and Download the latest version and click on "Source code" file
