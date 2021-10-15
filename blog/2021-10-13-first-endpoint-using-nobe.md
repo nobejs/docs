@@ -268,7 +268,7 @@ Run: `yarn test -i src/stories/UserCanRegister/endpoint.spec.js` and you have a 
 
 So, we have implemented register api along with test cases. Though we didn't cover all possible test cases like we have to check what happens if user doesn't pass valid email, we should also confirm if password is stored in encrypted format etc., We are excluding them to make this longish tutorial bearable. Let's quickly implement login functionality too.
 
-### Step 4: Develop UserCanLogin story
+### Step 5: Develop UserCanLogin story
 
 - Run `yarn nobe:genstory "UserCanLogin"`
 - Let's write our test in src/stories/UserCanLogin/tests.spec.js
