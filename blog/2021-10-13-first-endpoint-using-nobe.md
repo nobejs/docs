@@ -106,7 +106,7 @@ Are we going to create this table in database, actually no! We will write test c
 
 ### Step 4: Develop UserCanRegister story
 
-- We will create the story first using a command, Run: `yarn gen:story "UserCanRegister"`
+- We will create the story first using a command, Run: `yarn nobe:genstory "UserCanRegister"`
 - You should see a folder created at: `src/stories/UserCanRegister` with three files:
   - src/stories/UserCanRegister/endpoint.spec.js -> We write tests to check our endpoint
   - src/stories/UserCanRegister/story.js -> This is where we implement our story
