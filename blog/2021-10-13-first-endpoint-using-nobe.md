@@ -11,15 +11,15 @@ This article explores getting started with Nobe with an example. Source code of 
 
 ### Step 1: Download and Setup
 
-1. Download ZIP file from: https://github.com/nobejs/nobejs/archive/refs/tags/0.0.20.zip
+1. Download ZIP file from: https://github.com/nobejs/nobejs/archive/refs/tags/0.0.21.zip
 2. Extract the zip file
-3. You should see a folder `nobejs-0.0.20`, rename it to `first-endpoint`
+3. You should see a folder `nobejs-0.0.21`, rename it to `first-endpoint`
 4. Change into first-endpoint folder and then run: `yarn install`
 5. Check the version of nobe: `yarn nobe:version` -> You should see:
 
 ```
-Version: 0.0.20
-Latest Available Version: 0.0.20
+Version: 0.0.21
+Latest Available Version: 0.0.21
 ```
 
 6. Copy .env.example to .env.jest, u can just run `cp .env.example .env.jest`
@@ -268,7 +268,7 @@ Run: `yarn test -i src/stories/UserCanRegister/endpoint.spec.js` and you have a 
 
 So, we have implemented register api along with test cases. Though we didn't cover all possible test cases like we have to check what happens if user doesn't pass valid email, we should also confirm if password is stored in encrypted format etc., We are excluding them to make this longish tutorial bearable. Let's quickly implement login functionality too.
 
-### Step 4: Develop UserCanLogin story
+### Step 5: Develop UserCanLogin story
 
 - Run `yarn nobe:genstory "UserCanLogin"`
 - Let's write our test in src/stories/UserCanLogin/tests.spec.js
