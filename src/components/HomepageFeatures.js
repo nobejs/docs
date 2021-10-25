@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require("../../static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Nobejs insists on consistenty. Nobejs suggests that you test and run
+        Nobejs insists on consistency. Nobejs suggests that you test and run
         your stories using a predefined strategy.
       </>
     ),
